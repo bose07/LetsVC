@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980477374081",
+    "project_id": "letsvc-6da4f",
+    "storage_bucket": "letsvc-6da4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980477374081:android:ca874c3c4510ae1e3c2780",
+        "android_client_info": {
+          "package_name": "com.example.letsvc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980477374081-3g3g8i5r9ooistsv3m04pgcqgrqa5sbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DjiKkSB28b6-FHsY497a9ovePWDHfBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980477374081-3g3g8i5r9ooistsv3m04pgcqgrqa5sbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
