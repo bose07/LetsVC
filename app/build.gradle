@@ -11,7 +11,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.letsvc"
-        minSdkVersion 21
+        minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -46,4 +46,5 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics'
     implementation platform('com.google.firebase:firebase-bom:27.1.0')
     implementation platform('com.google.firebase:firebase-bom:27.1.0')
+    implementation ('org.jitsi.react:jitsi-meet-sdk:2.11.0') { transitive = true }
 }
