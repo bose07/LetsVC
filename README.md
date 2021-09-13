@@ -1,6 +1,21 @@
-# LetsVC-
-Video call and chat , Cideo call application ,  simple UI
-## Splash Screen
+# 🚀 LetsVC
+***While making this application I have tried to use and learn some of the tools, techniques, technologies that are listed below ***
+## APP Feature
+#### ✔️ Splash Screen
+#### ✔️ User login and signup
+#### ✔️ create new account 
+#### ✔️ Beautiful Layouts 
+#### ✔️ invite friends 
+#### ✔️ mute audio
+#### ✔️ front/back support 
+#### ✔️ watch movies together 
+#### ✔️ Complete video call application 
+#### ✔️ unlimited Private chat rooms for users
+#### ✔️. 75+ participants in group call 
+#### ✔️. video call recording 
+#### ✔️. live youtube streaming
+
+
 
 ## ![Screenshot_2021-05-13-20-04-46-739_com example letsvc](https://user-images.githubusercontent.com/56763840/118141119-aed6c600-b426-11eb-83c0-1ae2ddc2f29a.jpg)
 
