@@ -1,6 +1,6 @@
 # LetsVC-
 Video call and chat , Cideo call application ,  simple UI
-## Splash screen
+## Splash Screen
 
 ## ![Screenshot_2021-05-13-20-04-46-739_com example letsvc](https://user-images.githubusercontent.com/56763840/118141119-aed6c600-b426-11eb-83c0-1ae2ddc2f29a.jpg)
 
