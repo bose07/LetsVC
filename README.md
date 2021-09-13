@@ -15,5 +15,5 @@ Video call and chat , Cideo call application ,  simple UI
 ## Video Call
 ![WhatsApp Image 2021-05-13 at 19 15 37 (2)](https://user-images.githubusercontent.com/56763840/118141168-b72f0100-b426-11eb-9fdd-954401bf32a4.jpeg)
 
-## Chat option 
+## Chat Option 
 ![WhatsApp Image 2021-05-13 at 19 15 37 (1)](https://user-images.githubusercontent.com/56763840/118141176-b9915b00-b426-11eb-9900-2c2a5017e23f.jpeg)
