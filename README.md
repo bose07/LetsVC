@@ -12,7 +12,7 @@ Video call and chat , Cideo call application ,  simple UI
 
 ![WhatsApp Image 2021-05-13 at 19 15 37](https://user-images.githubusercontent.com/56763840/118141154-b4cca700-b426-11eb-8d8e-81caf352900c.jpeg)
 
-## Video call
+## Video Call
 ![WhatsApp Image 2021-05-13 at 19 15 37 (2)](https://user-images.githubusercontent.com/56763840/118141168-b72f0100-b426-11eb-9fdd-954401bf32a4.jpeg)
 
 ## Chat option 
