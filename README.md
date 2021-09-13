@@ -4,7 +4,7 @@ Video call and chat , Cideo call application ,  simple UI
 
 ## ![Screenshot_2021-05-13-20-04-46-739_com example letsvc](https://user-images.githubusercontent.com/56763840/118141119-aed6c600-b426-11eb-83c0-1ae2ddc2f29a.jpg)
 
-## login screen 
+## login Screen 
 
 ![WhatsApp Image 2021-05-13 at 19 15 36 (1)](https://user-images.githubusercontent.com/56763840/118141138-b26a4d00-b426-11eb-8781-6da33811c468.jpeg)
 
